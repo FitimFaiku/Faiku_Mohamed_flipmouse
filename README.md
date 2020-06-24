@@ -1,6 +1,6 @@
 # flipmouse
 ## Video 
-The video of me sending an E-Mail to myself.
+Beim Video versende ich mir auf meiner anderen e-mail adresse eine nachricht.
 
 ## Problemdokumentation 
 Ohne die flipmouse immer zu kofigurieren oder zu laden funktioniert sie nicht.
